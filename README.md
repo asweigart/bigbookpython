@@ -6,14 +6,20 @@ A module to install the dependencies for the projects in The Big Book of Small P
 Installation
 ------------
 
-To install with pip, run:
+To install with pip on Windows, run:
 
-    pip install bigbookpython
+    pip install --user bigbookpython
 
-Quickstart Guide
-----------------
+To install with pip on macOS/Linux, run:
 
-TODO - fill this in later
+    pip3 install --user bigbookpython
+
+Installing the bigbookpython module installs the pyperclip, bext, playsound, and pyttsx3 modules all at once.
+
+* https://pypi.org/project/pyperclip/
+* https://pypi.org/project/bext/
+* https://pypi.org/project/playsound/
+* https://pypi.org/project/pyttsx3/
 
 Contribute
 ----------

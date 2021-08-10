@@ -6,6 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+bigbookpython = {editable = true, path = "."}
 
 [requires]
 python_version = "3.9"

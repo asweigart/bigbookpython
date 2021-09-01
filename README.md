@@ -25,3 +25,8 @@ Contribute
 ----------
 
 If you'd like to contribute to Big Book Python Modules, check out https://github.com/asweigart/bigbookpython
+
+Support
+-------
+
+If you find this project helpful and would like to support its development, [consider donating to its creator on Patreon](https://www.patreon.com/AlSweigart).
